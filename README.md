@@ -8,3 +8,4 @@
 pip install -r requirements.txt
 python login.py
 ```
+![展示](data/zhanshi.png)
